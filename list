@@ -1,2 +1,4 @@
 googleads.g.doubleclick.net/pagead/id
 youtube.com/youtubei/v1/log_event?alt=json
+collector.github.com/github/collect
+api.github.com/_private/browser/stats
