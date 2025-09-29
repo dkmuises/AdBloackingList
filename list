@@ -1,3 +1,6 @@
 googleads.g.doubleclick.net/pagead/id
 collector.github.com/github/collect
 api.github.com/_private/browser/stats
+(\.|^)googleadservices\.net$
+(\.|^)googleads\.g\.doubleclick\.net$
+(\.|^)googleadservices\.com$
